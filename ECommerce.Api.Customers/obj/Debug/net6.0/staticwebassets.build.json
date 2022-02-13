@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uc4rRbJHKtDLkS+T3SKjQb/gBOJRrTDSGy6PIxcYpmo=",
+  "Source": "ECommerce.Api.Customers",
+  "BasePath": "_content/ECommerce.Api.Customers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
