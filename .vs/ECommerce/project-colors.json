@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8accd38f-7a09-4696-aa74-4f4888132e99": {
+      "ProjectGuid": "8accd38f-7a09-4696-aa74-4f4888132e99",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 0
+    },
+    "e86e5ace-d59e-422b-9195-3c7a14eb0939": {
+      "ProjectGuid": "e86e5ace-d59e-422b-9195-3c7a14eb0939",
+      "DisplayName": "ECommerce.Api.Search",
+      "ColorIndex": 1
+    },
+    "1a9ffa4e-a7ac-4a8c-88a7-852b07cca7b4": {
+      "ProjectGuid": "1a9ffa4e-a7ac-4a8c-88a7-852b07cca7b4",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2e8bfe59-44ba-45eb-89b0-6fd5963a2f8d": {
+      "ProjectGuid": "2e8bfe59-44ba-45eb-89b0-6fd5963a2f8d",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
